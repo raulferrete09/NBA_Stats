@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AnalisePage.qml</file>
+        <file>HomePage.qml</file>
+        <file>Assets/MainBackground-1119x839.png</file>
+        <file>Assets/homepage.png</file>
+        <file>Assets/homepage2.png</file>
+        <file>Assets/Emblemas/atlanta.png</file>
+        <file>Assets/Emblemas/celtics.png</file>
+        <file>Assets/Emblemas/piaes.png</file>
+        <file>Assets/Players/tatum.png</file>
+        <file>Assets/Players/tatum2.png</file>
+        <file>HomeTeamPage.qml</file>
+    </qresource>
+</RCC>
